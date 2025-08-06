@@ -1,4 +1,5 @@
-## Hi I'm eunho, nice to meet you. 👋
+## Hi I'm eunho, nice to meet you.👋
+안녕 난 은호야, 만나서 반가워.👋
 
 <!--
 **Eunho1227/Eunho1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
